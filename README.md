@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Santosh Kumar Saladi  
 
-<!--
-**Santoshsaladi/santoshsaladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **About Me**  
+- 🎓 MS in Data Science (University of New Haven, May 2025)  
+- 💼 Data Engineer with 5+ years experience in **AWS, Snowflake, Databricks**  
+- 💰 Passionate about **FinOps, Cloud Cost Optimization, and Big Data**  
+- 🚀 Currently working on cloud migrations and cost-to-serve dashboards  
 
-Here are some ideas to get you started:
+🛠 **Tech Stack**  
+- Cloud: AWS (Glue, Redshift, S3, EMR), Azure, Snowflake  
+- Data Engineering: Python (Pandas, PySpark), SQL, dbt, Airflow  
+- Visualization: Tableau, Power BI, QuickSight  
+- ML: Time-series (SARIMAX), Scikit-learn  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 **Let’s Connect**  
+- [LinkedIn](https://linkedin.com/in/santoshsaladi)  
+- [GitHub](https://github.com/Santoshsaladi)  
+- 📧 Email: santoshsaladi77@gmail.com  
