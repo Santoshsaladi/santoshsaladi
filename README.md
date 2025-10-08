@@ -72,7 +72,7 @@ GPA: **3.6 / 4.0**
 ## 📬 Contact  
 
 📧 [kssantosh333@gmail.com](mailto:kssantosh333@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/santoshk3)  
+🔗 [LinkedIn](https://linkedin.com)  
 💻 [GitHub](https://github.com/Santoshsaladi)  
 
 ---
