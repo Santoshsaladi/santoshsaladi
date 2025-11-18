@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me  
 
-🚀 Data Engineer with **4+ years of experience** in building **ETL pipelines, data warehouses, and cloud analytics**.  
+🚀 Data Engineer with **5+ years of experience** in building **ETL pipelines, data warehouses, and cloud analytics**.  
 ⚡ Skilled in **AWS, Azure, Python, SQL, Spark** with strong expertise in **retail, finance, and compliance domains**.  
 💰 Passionate about **FinOps** – reducing costs, optimizing cloud usage, and enabling **data-driven insights** for business teams.  
 
