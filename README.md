@@ -1,25 +1,22 @@
-<!-- Banner -->
+<!-- Banner --> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=180&section=header&text=Hi%20I'm%20Santosh%20S👋&fontSize=40&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:6366F1&height=180&section=header&text=Hi%20I'm%20Santosh%20S%20👋&fontSize=40&fontColor=fff" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 🚀 About Me  
 
-🚀 Data Engineer with **5+ years of experience** in building **ETL pipelines, data warehouses, and cloud analytics**.  
-⚡ Skilled in **AWS, Azure, Python, SQL, Spark** with strong expertise in **retail, finance, and compliance domains**.  
-💰 Passionate about **FinOps** – reducing costs, optimizing cloud usage, and enabling **data-driven insights** for business teams.  
+🔥 AI/ML Engineer with **4+ years of experience building production-grade ML systems** in finance & insurance domains.  
+⚡ Specialized in **LLMs, RAG pipelines, real-time inference, and MLOps (MLflow, SageMaker)**.  
+📈 Proven impact: **+11% model accuracy, 35% latency reduction, 2× throughput improvement**.  
+🧠 Passionate about building **scalable, reliable, and enterprise-ready AI systems**.  
 
 ---
 
 ## 🎓 Education  
 
 🎓 **University of New Haven** — *M.S. in Data Science* (Aug 2023 – May 2025)  
-GPA: **3.54 / 4.0**  
-*Courses:* Distributed Data Engineering, Machine Learning, AI & Cybersecurity  
-
-🎓 **Dr. B.R. Ambedkar University, India** — *B.Sc. in Computer Science* (Jun 2017 – May 2020)  
 GPA: **3.6 / 4.0**  
 
 ---
@@ -27,25 +24,35 @@ GPA: **3.6 / 4.0**
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  
-<!-- Programming -->
+
+<!-- Core -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
 
-<!-- Cloud -->
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<!-- ML / AI -->
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge&logo=databricks&logoColor=white" />
 
-<!-- Big Data -->
+<!-- LLM / GenAI -->
+<img src="https://img.shields.io/badge/LLMs-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+
+<!-- Data -->
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
 
-<!-- Visualization -->
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/QuickSight-007ACC?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<!-- Cloud / MLOps -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge" />
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 </p>
 
@@ -62,22 +69,33 @@ GPA: **3.6 / 4.0**
 
 ## 🚀 Featured Projects  
 
-📌 **[EDU Predict Tool](https://github.com/Santoshsaladi/EDU-PREDICT-TOOL)** – SARIMAX-based forecasting with Power BI dashboard for student enrollment trends  
-📌 **[Object Detection SSD](https://github.com/Santoshsaladi/Object-Detection-SSD)** – Deep learning project using Single Shot Detector  
-📌 **[Text Summarization](https://github.com/Santoshsaladi/Text-Summarization)** – Abstractive summarization using BART + HuggingFace  
-📌 **[Liquor Store](https://github.com/Santoshsaladi/Liquor-Store)** – Web application project with analytics integration  
+📌 **EDU Predict Tool**  
+→ Time-series forecasting (SARIMAX) for enrollment prediction  
+→ Improved accuracy by **18%** using seasonal modeling  
+
+📌 **Text Summarization (BART)**  
+→ Built abstractive summarization pipeline using HuggingFace + PyTorch  
+→ Improved **ROUGE F1 scores** via preprocessing & optimization  
+
+📌 **AI Agent Research Assistant**  
+→ Built LLM-powered research assistant using **RAG + LangChain + vector search**  
+→ Integrated real-time web search + local LLM inference  
+
+📌 **Financial ML Systems (Industry Work)**  
+→ XGBoost + Transformer models for classification & anomaly detection  
+→ Achieved **92% accuracy + 28% fraud detection improvement**  
 
 ---
 
 ## 📬 Contact  
 
-📧 [kssantosh333@gmail.com](mailto:kssantosh333@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com)  
-💻 [GitHub](https://github.com/Santoshsaladi)  
+📧 kumarsaladi77@gmail.com  
+🔗 https://linkedin.com/in/kumarsaladi  
+💻 https://github.com/Santoshsaladi  
 
 ---
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:4F46E5&height=120&section=footer" />
 </p>
